@@ -15,7 +15,7 @@ During the course, we explored:
 - Object detection and semantic segmentation, including matting
 - Image enhancement and generative models for computer vision
 
-## 📚 Homeworks
+## Homeworks
 
 ### Homework 1 — Research Task (CIFAR100)
 Task: Train models on the CIFAR100 dataset with a limited number of parameters.  
@@ -30,3 +30,4 @@ Result: Research demonstrating the relationship between model size and classific
 Task: Train a convolutional neural network (CNN)** on a labeled pizza image dataset.  
 Objective: Apply the trained model to the test set and submit predicted classes.  
 Result: End-to-end classification pipeline demonstrating CNN training, evaluation, and inference.  
+
